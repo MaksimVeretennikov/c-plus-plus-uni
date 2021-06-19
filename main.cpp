@@ -10,6 +10,8 @@
 #include <map>
 #include <functional>
 
+// Stack of complex numbers
+
 namespace numbers
 {
     class complex
